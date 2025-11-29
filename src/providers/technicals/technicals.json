@@ -1,0 +1,29 @@
+{
+    "INFY": {
+        "6M": {
+            "symbol": "INFY",
+            "timeframe": "6M",
+            "price": {
+                "lastClose": 1542.5,
+                "changePct1D": -0.8,
+                "high52W": 1650,
+                "low52W": 1200
+            },
+            "trend": {
+                "sma20": 1510.3,
+                "sma50": 1482.1,
+                "sma200": 1420.4
+            },
+            "momentum": {
+                "rsi14": 62.3
+            },
+            "volatility": {
+                "beta": 0.9
+            },
+            "patternSignals": [
+                "uptrend",
+                "mild_overbought"
+            ]
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "INFY": {
+        "symbol": "INFY",
+        "pe": 20.3,
+        "pb": 5.1,
+        "debtToEquity": 0.1,
+        "roe": 24.5,
+        "marketCap": 600000000000,
+        "revenueCagr3y": 0.11,
+        "epsCagr3y": 0.13,
+        "dividendYield": 0.018,
+        "qualityTags": [
+            "largecap",
+            "it_services",
+            "consistent_dividends"
+        ]
+    }
+}
