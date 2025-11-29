@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/pg": "^8.15.6",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "http-status-codes": "^2.2.0",
@@ -24,6 +25,7 @@
     "yahoo-finance2": "^2.14.2"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.19",
     "@types/express": "^5.0.5",
     "@types/node": "^24.10.1",
     "ts-node": "^10.9.2",
